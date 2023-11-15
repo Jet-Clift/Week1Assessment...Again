@@ -1,4 +1,4 @@
-/*
+ /*
     For this section of the assessment you will be putting together a cheat sheet for common git commands.  
     You'll provide the command as well as what it does. 
 */

@@ -24,7 +24,7 @@
     picked on Monday of this week.
 
     The prices are per pound and are written
-    in cents. 
+    in cents.  
 */
 
 const fujiAcres = [2, 3, 3, 2, 2, 2, 1]
